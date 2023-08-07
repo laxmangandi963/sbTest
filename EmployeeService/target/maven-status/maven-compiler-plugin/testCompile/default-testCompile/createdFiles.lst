@@ -1,0 +1,4 @@
+com\restemployee\service\EmployeeServiceTest.class
+com\restemployee\EmployeeServiceApplicationTests.class
+com\restemployee\controller\EmployeeControllerTest.class
+com\restemployee\repository\EmployeeRepositoryTest.class
